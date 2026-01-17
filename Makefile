@@ -20,3 +20,4 @@ distclean:
 
 src-pkg:
 	tar cvJf sources.tar.xz sources
+TESTETETETETETEST
